@@ -1232,6 +1232,30 @@ section {
   margin-bottom: 20px;
 }
 
+
+#portfolio .btn-get-started {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 25px;
+  justify-content: center;
+  padding: 8px 30px 10px 30px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #5f687b;
+  background: #fff;
+  border: 1px solid #cdd1d9;
+}
+
+#portfolio .btn-get-started:hover {
+  background: #cdd1d9;
+border: 1px solid #cdd1d9;
+}
+
+
 .portfolio-details .portfolio-description p {
   padding: 0 0 0 0;
 }
